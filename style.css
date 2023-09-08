@@ -1,0 +1,28 @@
+.m10{
+    margin:10px;
+}
+
+.p10{
+    padding: 10px;
+}
+
+.p30{
+    padding: 30px;
+}
+
+.w100{
+    width: 100%;
+}
+
+.bx1{
+    border:1px solid black;
+}
+
+.tutu_super_class{
+    color:orange;
+}
+
+
+.fs2{
+    font-size:2rem;
+}
